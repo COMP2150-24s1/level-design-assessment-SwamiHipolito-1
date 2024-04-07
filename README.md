@@ -32,16 +32,7 @@ To minimise backtracking the level was built in a linear form in an attempt to k
 The level transitions from an outdoor area used to introduce the plot, to caves with different atmospheres, the first one resembling a typical cave and another with a mystical, blue aura.
 The final part takes players through a glowing forest, evoking wonder and providing a  space for reflection on their experience.
 
-
 ## 2. Core Gameplay (~400 words)
-A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
-
-Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
-
-You should restructure the headings below to match the order they appear in your level.
-
-
-
 
 ### 2.1. Passthrough Platforms
 Passthrough platforms are introduced early on as it is an essential core mechanic for the level.
