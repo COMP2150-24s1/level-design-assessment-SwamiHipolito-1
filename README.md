@@ -51,7 +51,8 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Passthrough Platforms
 Passthrough platforms are introduced early on as it is an essential core mechanic for the level.
-![Place any alt text here](DocImages/PassThroughPlatform.png)
+![This is the alt text for an image!](DocImages/PassThroughPlatform.png)
+![This is the alt text for an image!](DocImages/exampleimage.png)
 
 ### 2.2. Keys/Weapon Pickup (Staff)
 The player can spot the key but is unable to reach it due to a breakable wall. Dropping down allows them to attain the staff. The addition of the breakable wall was added to force the player to interact with it, demonstrating the potential for destroying those type of walls. The player now understands how to access the key.
