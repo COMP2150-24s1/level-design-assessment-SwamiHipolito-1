@@ -51,43 +51,56 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.1. Passthrough Platforms
 Passthrough platforms are introduced early on as it is an essential core mechanic for the level.
+![Place any alt text here](DocImages/PassThroughPlatform.png)
 
 ### 2.2. Keys/Weapon Pickup (Staff)
 The player can spot the key but is unable to reach it due to a breakable wall. Dropping down allows them to attain the staff. The addition of the breakable wall was added to force the player to interact with it, demonstrating the potential for destroying those type of walls. The player now understands how to access the key.
+
+![Place any alt text here](DocImages/Key.png)
 
 ### 2.3. Checkpoints/Acid
 Checkpoints determine the player's respawn point in case of death. A checkpoint was placed before the player confronted their first hazardous obstacle, acid, as it is likely that the player will mess up in their first attempt. 
 This checkpoint alleviates the frustration of restarting from the beginning.
 The introduction of acid as the first hazardous obstacle is the best way to test the newly developed movement skills the player acquired with a higher level of risk. 
 
+![Place any alt text here](DocImages/Acid)
+![Place any alt text here](DocImages/Checkpoint.png)
 
 ### 2.4. Health Pickups
 A health pickup can be found right across the first acid obstacle. Considering that players may encounter difficulties with their initial hazardous obstacle, placing the health pack after it specially in a place they can’t  easily avoid will force the player to understand this item’s purpose. 
 
+![Place any alt text here](DocImages/Health.png)
+
 ### 2.5. Moving Platforms
 The first moving platform is introduced as the only way forward. The goal of this location is to not confuse the player on where to go. 
+
+![Place any alt text here](DocImages/MovingPlatform.png)
 
 ### 2.6. Spikes
 Since the player becomes aware of potential hazards in the game world before encountering the first set of spikes, it's reasonable to expect them to be cautious.
 Due to this, the spikes were placed on a moving platform where they are forced to jump over while in motion. This setup serves to test a new mechanic involving jumping while on a moving floor. The spikes help increase the tension as the player discovered their way through. 
 
+![Place any alt text here](DocImages/Spikes.png)
+
 ### 2.7. Chompers
 Chompers can be found patrolling a moving platform. They were placed in a way the player can see from under them and choose when to approach them. Since this is the player's first encounter with a chomper their field of view is restricted. 
+
+![Place any alt text here](DocImages/Chomper.png)
 
 ### 2.8. Spitters/Weapon Pickup (Gun)
 A spitter is located at the centre of the room in order to increase the puzzle's difficulty. The goal of the player is to obtain the gun and activate the switches. They face the choice of either risking a life by confronting the spitter with the staff or taking a safer approach to acquire the gun while evading damage. 
 
-
+![Place any alt text here](DocImages/Spiters.png)
 
 
 ## 3. Spatiotemporal Design
 
 ### 3.2. Level Map – Section 1
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+![Place any alt text here](DocImages/Section1.png)
 ### 3.3.	Level Map – Section 2
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+![Place any alt text here](DocImages/Section2.png)
 ### 3.4.	Level Map – Section 3
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
+![Place any alt text here](DocImages/Section3.png)
 
 
 ## 4. Iterative Design (~400 words)
