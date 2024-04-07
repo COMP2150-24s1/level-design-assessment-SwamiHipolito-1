@@ -3,12 +3,6 @@ f[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-rea
 ### Name: [Swami Hipolito]
 ### Student number: [48159042] 
 
-
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
 
 ### 1.1. Discovery
